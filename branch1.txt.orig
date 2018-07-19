@@ -3,7 +3,10 @@ master update 2
 master update 2
 b update 1
 b update 2
+<<<<<<< HEAD
 
 m update 3
 m update 31
+=======
 b update 3
+>>>>>>> b3 udpate 1
